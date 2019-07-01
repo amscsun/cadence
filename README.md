@@ -13,3 +13,15 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
 
     __P605 Max Area of an Island:__ Review basics on BFS, as well as arrays.
+
+    __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.
+
+    __P122 Best Time to Buy and Sell a Stock II:__
+    ```python
+    def profit(prices: List[int])->int:
+      profit = 0
+      for i in range(len(prices)-1):
+        profit = profit + max( 0, prices[i+1]-prices[i] )
+        return profit
+    ```
+    This solution is not exactly intuitive.

@@ -12,7 +12,7 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
     __P280 Wiggle Sort:__ Doing careful and patient analysis.
 
 
-    __P605 Max Area of an Island:__ Review basics on BFS, as well as arrays.
+    __P695 Max Area of an Island:__ Review basics on BFS, as well as arrays.
 
     __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.
 
@@ -25,3 +25,5 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
         return profit
     ```
     This solution is not exactly intuitive.
+
+    __P123 Best Time to Buy and Sell a Stock III:__ Not exactly an array question.

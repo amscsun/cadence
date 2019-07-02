@@ -24,7 +24,7 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P189 Rotate Array:__ Could not find the approach with $O(1)$ space complexity.
 
-    __P11 Container with Water:__ Checked discussion. Consider two pointer approach.
+    __P11 Container with Water:__ Checked discussion. Consider two pointer approach. An excellent article on this problem can be found [here](https://leetcode.com/articles/container-with-most-water/).
 
     __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.
 

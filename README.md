@@ -18,6 +18,14 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
   * Arrays Continued: Stocks (07/02/2019)
 
+    __P665 Non-decreasing Array:__ I would not classify it as _easy_.
+
+    __P88 Merge Sorted Array:__ Rather strange problem.
+
+    __P189 Rotate Array:__ Could not find the approach with $O(1)$ space complexity.
+
+    __P11 Container with Water:__ Checked discussion. Consider two pointer approach.
+
     __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.
 
     __P122 Best Time to Buy and Sell a Stock II:__

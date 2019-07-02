@@ -14,8 +14,10 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P695 Max Area of an Island:__ Review basics on BFS, as well as arrays.
 
+    __P48 Rotate Image:__ Figure out change of indexes for symmetric operations.
 
   * Arrays Continued: Stocks (07/02/2019)
+
     __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.
 
     __P122 Best Time to Buy and Sell a Stock II:__

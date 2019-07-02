@@ -14,6 +14,8 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P695 Max Area of an Island:__ Review basics on BFS, as well as arrays.
 
+
+  * Arrays Continued: Stocks (07/02/2019)
     __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.
 
     __P122 Best Time to Buy and Sell a Stock II:__
@@ -25,5 +27,3 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
         return profit
     ```
     This solution is not exactly intuitive.
-
-    __P123 Best Time to Buy and Sell a Stock III:__ Not exactly an array question.

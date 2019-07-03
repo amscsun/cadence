@@ -26,6 +26,22 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P11 Container with Water:__ Checked discussion. Consider two pointer approach. An excellent article on this problem can be found [here](https://leetcode.com/articles/container-with-most-water/).
 
+  * 07/03/2019
+    ```diff
+    - Date Night!
+    ```
+
+  * Arrays Continued (07/04/2019).
+
+    __P792 Number of Matching Subsequences:__ Still encountering time limit errors after optimization.
+
+    __P162 Find Peak Element:__ Rather strange problem.
+
+    __P80 Remove Duplicates from Array:__ Another rather strange one.
+
+  * Arrays Continued (07/05/2019)
+
+
     __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.
 
     __P122 Best Time to Buy and Sell a Stock II:__

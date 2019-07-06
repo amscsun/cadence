@@ -26,7 +26,7 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P11 Container with Water:__ Checked discussion. Consider two pointer approach. An excellent article on this problem can be found [here](https://leetcode.com/articles/container-with-most-water/).
 
-  * 07/03/2019
+  * Arrays Continued (07/03/2019).
     ```diff
     - Date Night!
     ```
@@ -38,6 +38,10 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
     __P162 Find Peak Element:__ Rather strange problem.
 
     __P80 Remove Duplicates from Array:__ Another rather strange one.
+
+    __P73 Set Matrix Zeros:__ Routine.
+
+    __P238 Product of Array Except Itself:__ Place VS Time complexity.
 
   * Arrays Continued (07/05/2019)
 

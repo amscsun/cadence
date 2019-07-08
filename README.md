@@ -43,7 +43,7 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P238 Product of Array Except Itself:__ Place VS Time complexity.
 
-  * Arrays Continued: Sub arrays. (07/05/2019)
+  * Arrays Continued: Sub arrays. (07/08/2019)
 
     __P52 Maximum Subarray:__ Definitely not an easy problem. Involving DP.
 

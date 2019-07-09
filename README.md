@@ -51,6 +51,16 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P643 Maximum Avarge Subarray:__
 
+  * Arrays Continued: Last day for arrays. Tomorrow we move onto Binary Tree and Binary Search.
+
+    __P560: Subarray Sum Equals K:__ I was interviewed with this problem for my FB internship.
+
+    __P974: Subarray divisible by K:__ Work out the brute force solution first.
+
+    __P713: Subarray Product Less Than K:__ This is an interesting one. Keep in mind we have positive intergers inside the array. In practice, we should never do cumulative multiplication/division on long vectors.
+
+
+
 
 
   * Arrays Continued (07/05/2019)
@@ -67,3 +77,7 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
         return profit
     ```
     This solution is not exactly intuitive.
+
+    * Dynammic Programming (For Later)
+
+      __P718 Maximum Lenght of Repeated Subarray:__

@@ -92,10 +92,18 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
 
 
+  * Tree (07/10/2019): All Types of Traversals
+
+    __P589 N-ary Tree Preorder Traversal__
+
+    __P590 N-ary Tree Postorder Traversal__
+
+    __P429 N-ary Tree Level Order Traversal__
+
+    
 
 
-
-  * Arrays Continued (07/05/2019)
+  * Stocks (07/05/2019)
 
 
     __P121 Best Time to Buy and Sell a Stock:__ Practice two pointers for stock type of problems.

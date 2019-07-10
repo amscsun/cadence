@@ -78,6 +78,8 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P713: Subarray Product Less Than K:__ This is an interesting one. Keep in mind we have positive intergers inside the array. In practice, we should never do cumulative multiplication/division on long vectors.
 
+    __P209 Minimum Length Subarray:__ This is more about designing elegant conditions for efficient coding.
+
 
   * Summary of Arrays and Subarrays:
 

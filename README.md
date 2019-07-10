@@ -55,9 +55,39 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P560: Subarray Sum Equals K:__ I was interviewed with this problem for my FB internship.
 
+    Work with cumulative sum seem to be the simplest solution.
+    ```python
+    class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        # this was my problem during FB interview
+        cSum = {}
+        cSum[0] = 1
+        count,tmp = 0,0
+        for i in range(len(nums)):
+            tmp += nums[i]
+            if tmp-k in cSum:
+                count += cSum[tmp-k]
+            if tmp in cSum:
+                cSum[tmp]+=1
+            else:
+                cSum[tmp] = 1
+        return count
+    ```
+
     __P974: Subarray divisible by K:__ Work out the brute force solution first.
 
     __P713: Subarray Product Less Than K:__ This is an interesting one. Keep in mind we have positive intergers inside the array. In practice, we should never do cumulative multiplication/division on long vectors.
+
+
+  * Summary of Arrays and Subarrays:
+
+      a. For problems with continuous sub arrays with maximum or minimum, defining ```maxEndingHere``` and ```maxSoFar``` to properly iterating thorugh the array.
+
+      b. If input is positive continuous integers, this is a sign for considering the _two pointer_ approach. Make sure you can write a correct, efficient version of two pointers.
+
+      c. ```prefix-sum``` and ```hashmaps``` are quite powerful when searching or counting subarrays with certain properties.
+
+
 
 
 

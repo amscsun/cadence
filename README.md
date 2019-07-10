@@ -100,6 +100,8 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P429 N-ary Tree Level Order Traversal__
 
+    __P102 Level Order Traversal of Binary Tree__
+
     Summary: get familiar with recursive and iterative solutions.
 
     ![test image](traversals.png)

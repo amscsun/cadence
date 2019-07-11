@@ -89,6 +89,8 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
       c. ```prefix-sum``` and ```hashmaps``` are quite powerful when searching or counting subarrays with certain properties.
 
+      d. random testing
+
 
 
 
@@ -107,6 +109,14 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
     ![test image](traversals.png)
 
 
+
+  * Tree (07/11/2019): Trees Continued
+
+    __P230 Kth Largest Element in BST__
+
+    __P98 Validate Binary Search Tree__
+
+    __P129 Sum Root to Leaf Numbers__
 
 
   * Stocks (07/05/2019)

@@ -118,6 +118,8 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P129 Sum Root to Leaf Numbers__
 
+    Summary: we see the power of traversals. Any problem that requires going through the entire tree, should find a solution from one of its traversals. Often, clever recursion can make tree problems much much easier.
+
 
   * Stocks (07/05/2019)
 

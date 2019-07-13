@@ -120,6 +120,18 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     Summary: we see the power of traversals. Any problem that requires going through the entire tree, should find a solution from one of its traversals. Often, clever recursion can make tree problems much much easier.
 
+  * Tree (07/12/2019): Period!
+
+  * Tree (07/13/2019) continued.
+
+    __P257__ Binary Tree Path
+
+    __P543 Diameter of Binary Tree__
+
+    __P173 Binary Search Tree Iterator__
+
+    __P236 Lowest Common Ancestor of a Binary Tree__
+
 
   * Stocks (07/05/2019)
 

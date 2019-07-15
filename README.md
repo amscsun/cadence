@@ -1,6 +1,18 @@
 ## Summer 2019
 
+----
 Keep track of the leetcode problems solved throughout the summer. The priority is on the Facebook tagged ones.
+
+>
+><span style="font-family:Papyrus; color:red; font-size:4em;">Number of Leetcode Problems Solved: 27 </span>
+>
+
+
+----
+
+Next target: properly prepare a paper for submission to ML/security conference in September. As in October, internship interviews would be flooding in.
+
+****
 
 ### Algorithm and Data Structures
 
@@ -128,7 +140,13 @@ Keep track of the leetcode problems solved throughout the summer. The priority i
 
     __P543 Diameter of Binary Tree__
 
-    __P173 Binary Search Tree Iterator__
+  * Tree (07/15/2019): Continued
+
+    __P687 Longest Univalue Path:__ I was having trouble with `path` for trees.
+
+    ____
+
+    __P173 Binary Search Tree Iterator:__ Let's solve the problem independently, and then have a discussion about the stack approach.
 
     __P236 Lowest Common Ancestor of a Binary Tree__
 

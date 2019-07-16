@@ -4,7 +4,7 @@
 Keep track of the leetcode problems solved throughout the summer. The priority is on the Facebook tagged ones.
 
 >
-><span style="font-family:Papyrus; color:red; font-size:4em;">Number of Leetcode Problems Solved: 27 </span>
+><span style="font-family:Papyrus; color:red; font-size:4em;">Number of Leetcode Problems Solved: 33 </span>
 >
 
 
@@ -144,11 +144,25 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P687 Longest Univalue Path:__ I was having trouble with `path` for trees.
 
-    ____
+    __P257: Binary Tree Path__
+
+    __P112: Path Sum__
+
+    __P124 Binary Tree Maximum Path Sum:__
 
     __P173 Binary Search Tree Iterator:__ Let's solve the problem independently, and then have a discussion about the stack approach.
 
     __P236 Lowest Common Ancestor of a Binary Tree__
+
+  * Hashtables (07/16/2019):
+
+    First, distinguish between map and hashtable (in C++).
+
+    __P314 Binary Tree Vertical Order Traversal__
+
+    __P325 Maximum Size Subarray Sum Equals K__
+
+    __P311 Sparse Matrix Multiplication__
 
 
   * Stocks (07/05/2019)

@@ -164,6 +164,14 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P311 Sparse Matrix Multiplication__
 
+  * Hashtables (07/18/2019):
+
+    __P438 Find All Anagrams In A String__ Let's chat about this one!
+
+    __P133 Clone Graph:__ Another problem in my FB internship interview.
+
+    __P138 Copy List with Random Pointer__
+
 
   * Stocks (07/05/2019)
 

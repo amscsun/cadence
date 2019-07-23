@@ -172,6 +172,21 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P138 Copy List with Random Pointer__
 
+  * Hashtables Continued (07/23/2019):
+
+    Next time I'll join you!
+
+    __P953 Verifying an Alien Dictionary__
+
+    __P347 Top K Frequent Elements__
+
+    __P692 Top K Frequent Words__
+
+    __P85 Maximal Rectangle__
+
+
+
+
 
   * Stocks (07/05/2019)
 

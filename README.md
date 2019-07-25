@@ -4,7 +4,7 @@
 Keep track of the leetcode problems solved throughout the summer. The priority is on the Facebook tagged ones.
 
 >
-><span style="font-family:Papyrus; color:red; font-size:4em;">Number of Leetcode Problems Solved: 33 </span>
+><span style="font-family:Papyrus; color:red; font-size:4em;">Number of Leetcode Problems Solved: 37 </span>
 >
 
 
@@ -184,6 +184,13 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P85 Maximal Rectangle__
 
+  * Queue (07/25/2019):
+
+    __P621 Task Scheduler__: another one of my FB interview.
+
+    __P207 Course Schedule__
+
+    __P279 Perfect Squares__
 
 
 

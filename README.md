@@ -192,6 +192,14 @@ Next target: properly prepare a paper for submission to ML/security conference i
     __P279 Perfect Squares__
 
 
+  * Stacks (07/30/2019):
+
+    __P155 Min Stack__
+
+    __P946 Validate Stack Sequences__
+
+    __P433 Minimum Genetic Mutation_
+
   * Graph: For Later.
 
     __P207 Course Schedule__

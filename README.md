@@ -200,8 +200,19 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P433 Minimum Genetic Mutation__
 
-  * BFS (07/31/2019)
-  
+  * BFS on grids (07/31/2019)
+    Figure out a template for compactly write BFS.
+
+
+    __P994 Rotting Oranges__
+
+    __P934 Shortest Bridge__
+
+    __P542 01 Matrix__
+
+  * BFS on Graphs and Trees (08/01/2019)
+
+  * RFS from String and Arrays (08/02/2019)
 
   * Graph: For Later.
 

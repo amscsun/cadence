@@ -198,7 +198,10 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P946 Validate Stack Sequences__
 
-    __P433 Minimum Genetic Mutation_
+    __P433 Minimum Genetic Mutation__
+
+  * BFS (07/31/2019)
+  
 
   * Graph: For Later.
 

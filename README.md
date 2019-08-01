@@ -212,6 +212,14 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
   * BFS on Graphs and Trees (08/01/2019)
 
+    __P199 Binary Tree Rigt Side View:__ This one is warming up.
+
+    __P310 Minimum Height Tree__
+
+    __P785 Is Graph Bipartite__
+
+    __P399 Evaluate Division__
+
   * RFS from String and Arrays (08/02/2019)
 
   * Graph: For Later.

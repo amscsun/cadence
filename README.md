@@ -220,7 +220,14 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P399 Evaluate Division__
 
-  * RFS from String and Arrays (08/02/2019)
+
+  * BFS Friday Fun (08/02/2019)
+
+    __P101 Symmetric Tree__
+
+    __P200 Number of Islands__
+
+  * BFS from String and Arrays (08/03/2019)
 
   * Graph: For Later.
 

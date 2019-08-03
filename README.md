@@ -227,7 +227,12 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P200 Number of Islands__
 
-  * BFS from String and Arrays (08/03/2019)
+
+  * Dynammic Programming! (08/03/2019)
+
+    __P70__ Climbing stairs
+
+    __P198 House Robber__
 
   * Graph: For Later.
 

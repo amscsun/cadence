@@ -230,9 +230,13 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
   * Dynammic Programming! (08/03/2019)
 
-    __P70__ Climbing stairs
+    __P70 Climbing stairs__
 
     __P198 House Robber__
+
+    __P300 Longest Increasing Subsequence__
+
+    __P494 Target Sum__
 
   * Graph: For Later.
 

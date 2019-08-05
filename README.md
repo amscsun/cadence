@@ -238,6 +238,14 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P494 Target Sum__
 
+  * Dynammic Programming (08/05/2019)
+
+    __P322 Coin Change__
+
+    __P139 Word Break__
+
+    __P91 Decode Ways__
+
   * Graph: For Later.
 
     __P207 Course Schedule__

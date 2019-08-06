@@ -246,9 +246,15 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P91 Decode Ways__
 
-  * Graph: For Later.
+  * Binary Search (08/06/2019)
 
-    __P207 Course Schedule__
+    __P278 First Bad Version__
+
+    __P74 Search a 2D Matrix__
+
+    __P240 Search a 2D Matrix II__
+
+    __P528 Pick with Random Weight__
 
 
 

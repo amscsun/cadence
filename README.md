@@ -256,6 +256,13 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
     __P528 Pick with Random Weight__
 
+  * Linked List (08/07/2019)
+
+    __P92 Reverse Linked list II__
+
+    __P143 Reorder List__
+
+    __P109 Convert Sorted List to Binary Search Tree__
 
 
 

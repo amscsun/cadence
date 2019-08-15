@@ -265,6 +265,19 @@ Next target: properly prepare a paper for submission to ML/security conference i
     __P109 Convert Sorted List to Binary Search Tree__
 
 
+  * Heap (08/15/2019)
+
+    Moving onto a new data structure: Heap
+
+    __P703 Kth Largest Element in a Stream__
+
+    __P973 K Closest Points to Origin__
+
+    __P378 Kth Smallest Element in a Sorted Matrix__
+
+    __P767 Reorganizing String__
+
+
 
   * Stocks (07/05/2019)
 

@@ -278,6 +278,17 @@ Next target: properly prepare a paper for submission to ML/security conference i
     __P767 Reorganizing String__
 
 
+  * Math (08/16/2019)
+
+    __P67 Add Binary__
+
+    __P593 Valid Square__
+
+    __P413 Arithmetic Slices__
+
+    __P670 Maimum Swap__
+
+
 
   * Stocks (07/05/2019)
 

@@ -289,6 +289,18 @@ Next target: properly prepare a paper for submission to ML/security conference i
     __P670 Maimum Swap__
 
 
+  * FB tagged problems I (08/21/2019)
+
+    __P283 Move Zeros__
+
+    __P125 Valid Palindrome__
+    
+    __P13 3Sum__
+
+    __P17 Letter Combination of a Phone Number__
+
+
+
 
   * Stocks (07/05/2019)
 

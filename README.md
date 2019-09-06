@@ -14,6 +14,19 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
 ****
 
+### GAN Papers
+
+  * CVPR
+
+  * NIPS
+
+
+### Water Marking
+
+  * DAC
+
+    Qian Xu [el al](www.google.com)
+
 ### Algorithm and Data Structures
 
   * String and Array Algorithms (07/01/2019 ).
@@ -294,7 +307,7 @@ Next target: properly prepare a paper for submission to ML/security conference i
     __P283 Move Zeros__
 
     __P125 Valid Palindrome__
-    
+
     __P13 3Sum__
 
     __P17 Letter Combination of a Phone Number__

@@ -313,7 +313,13 @@ Next target: properly prepare a paper for submission to ML/security conference i
     __P17 Letter Combination of a Phone Number__
 
 
+  * FB tagged problem (09/24/2019)
 
+    __P125 Valid Palindrome__
+
+    __P253 Meeting Rooms__
+
+    __P301 Remove Invalid Parentheses__
 
   * Stocks (07/05/2019)
 
@@ -333,3 +339,5 @@ Next target: properly prepare a paper for submission to ML/security conference i
     * Dynammic Programming (For Later)
 
       __P718 Maximum Lenght of Repeated Subarray:__
+  
+

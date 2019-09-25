@@ -315,11 +315,21 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
   * FB tagged problem (09/24/2019)
 
-    __P125 Valid Palindrome__
+    __P125 Valid Palindrome__: string
 
-    __P253 Meeting Rooms__
+    __P253 Meeting Rooms__: greedy algorithm
 
-    __P301 Remove Invalid Parentheses__
+    __P301 Remove Invalid Parentheses__: TOO HARD TO FINISH
+
+    __P56 Merge Intervals__: Similar problem as P253
+
+  * FB tagged problem_prefix sum and storage (09/25/2019)
+
+    __P325 Maximum Size Subarray Sum Equals k__: Prefix sums and dictionary
+
+    __P523 Continuous Subarray Sum__
+
+    __P304 Range Sum Query 2D - Immutable__
 
   * Stocks (07/05/2019)
 

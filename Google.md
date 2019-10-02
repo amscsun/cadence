@@ -17,3 +17,15 @@
     __P904 Fruit Into Baskets__ : Find out what to save
 
     __P929 Unique Email Addresses__: String
+
+  * Google tagged problem 10/01/2019 (Happy birthday to CHINA)
+
+    __P308 Range Sum Query 2D Mutable__: 2D binary index tree
+
+    __P418 Sentence Screen Fitting__
+
+    __P975 Odd Even Jump__: dp and sorted to get index information and use stack to get smallest higher or largest lower
+
+    __P482 License Key Formatting__
+
+    

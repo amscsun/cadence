@@ -29,6 +29,13 @@ Next target: properly prepare a paper for submission to ML/security conference i
 
 ### Algorithm and Data Structures
 
+  * Twitter OA Links:
+
+    Summary of Problems:
+    
+
+    Link [(1)](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=550868&highlight=twitter),[(2)](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=546012&highlight=twitter),[(3)](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=555640&highlight=twitter),[(4)](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=550480&highlight=twitter)
+
   * String and Array Algorithms (07/01/2019 ).
 
     __P287 Find the Duplicate Number:__
@@ -350,5 +357,3 @@ Next target: properly prepare a paper for submission to ML/security conference i
     * Dynammic Programming (For Later)
 
       __P718 Maximum Lenght of Repeated Subarray:__
-  
-

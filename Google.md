@@ -27,5 +27,26 @@
     __P975 Odd Even Jump__: dp and sorted to get index information and use stack to get smallest higher or largest lower
 
     __P482 License Key Formatting__
+  
+  * Google tagged problem 10/02/2019 (Study with Jing Ye)
 
-    
+    __P288 Unique Word Abbreviation__
+
+    __P159 Longest Substring with at Most K Distinct Characters__: Same as P904
+
+    __P489 Robot Room Cleaner__: DFS, find the correct state (position, direction)
+
+    __P298 Binary Tree Longest Consecutive Sequence__: DFS, find the simplest mission (find max length of sequence with the current root)
+
+    __P843 Guess the Word__: Guess a word and eliminate unmatched words; How to create, update and use 2D array to count the frequency; apply ord() to character; 
+
+* Google tagged problem 10/03/2019 
+  
+  __P686 Repeated String Match__: A trick in finding out how many repetition we have and search a word in a string (python built-in KMP, construct a prefix table for the smaller string, use prefix table to search)
+
+  __P281 Zigzag Iterator__: queue
+
+  __P361 Bomb Enemy__
+
+  __P340 Longest Substring with Most K Distinct Character__: store the last location of a character, what if we cannot use OrderedDict
+

@@ -40,13 +40,43 @@
 
     __P843 Guess the Word__: Guess a word and eliminate unmatched words; How to create, update and use 2D array to count the frequency; apply ord() to character; 
 
-* Google tagged problem 10/03/2019 
+  * Google tagged problem 10/03/2019 
   
-  __P686 Repeated String Match__: A trick in finding out how many repetition we have and search a word in a string (python built-in KMP, construct a prefix table for the smaller string, use prefix table to search)
+    __P686 Repeated String Match__: A trick in finding out how many repetition we have and search a word in a string (python built-in KMP, construct a prefix table for the smaller string, use prefix table to search)
 
-  __P281 Zigzag Iterator__: queue
+    __P281 Zigzag Iterator__: queue
 
-  __P361 Bomb Enemy__
+    __P361 Bomb Enemy__
 
-  __P340 Longest Substring with Most K Distinct Character__: store the last location of a character, what if we cannot use OrderedDict
+    __P340 Longest Substring with Most K Distinct Character__: store the last location of a character, what if we cannot use OrderedDict
 
+
+  * Google tagged problem 10/04/2019
+
+    __P568 Maximum Vacation Days__: DFS -> dp
+
+    __P844 Backspace String Compare__: stack
+
+    __P163 Missing Rangers__
+
+  * Goolge tagged problem 10/05/2019
+
+    __P752 Cracking the safe__: dfs
+
+    __P271 Encode and decode strings__
+
+    __P393 UTF 8 Validation__: transfer to string or use bit manipulation
+
+    __P218 The Skyline Problem__
+
+    __P351 Android Unlock Patterns__: dfs
+
+    __P857 Minimum Cost to Hire K Workers__: heap
+
+  * Google tagged problem 10/06/2019
+
+    __P947 Most Stones Removed with Same Row or Column__: dfs or union find
+
+    __P394 Decode Strings__: stack
+
+    

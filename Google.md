@@ -73,10 +73,20 @@
 
     __P857 Minimum Cost to Hire K Workers__: heap
 
-  * Google tagged problem 10/06/2019
+  * Google tagged problem 10/06/2019 (Only two problems today)
 
     __P947 Most Stones Removed with Same Row or Column__: dfs or union find
 
     __P394 Decode Strings__: stack
+
+  * Google tagged problem 10/07/2019 
+
+    __P149 Max Points on a Line__
+
+    __P305 Number of Islands II__: Union Find
+
+    __P425 Word Squares__: DFS
+
+    __P222 Count Complete Tree Nodes__: Divide and Conquer
 
     

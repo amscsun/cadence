@@ -89,4 +89,13 @@
 
     __P222 Count Complete Tree Nodes__: Divide and Conquer
 
+  * Google tagged problem 10/08/2019
+
+    __P679 24 Game__: DFS
+
+    __P296 Best Meeting Point__: trick: Median
+
+    __P616 Add Bold Tag in String__: integer interval; use string.find(start) --> return -1 if not exists, return idx otherwise
+
+    __P228 Summary Ranges__
     

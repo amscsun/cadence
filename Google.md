@@ -98,4 +98,33 @@
     __P616 Add Bold Tag in String__: integer interval; use string.find(start) --> return -1 if not exists, return idx otherwise
 
     __P228 Summary Ranges__
+
+  * Google tagged problem 10/09/2019
+
+    __P642 Design Search Autocomplete System__
+
+    __P803 Bricks Falling When Hit__: back to forth, dfs
+
+    __P284 Peeking Iterator__: iterator
+
+    __P410 Split Array Largest Sum__: recursion? dp? bs?
+
+  * Google tagged problem 10/10/2019
+
+    __P158 Given N Characters Given Read 4 II__
+
+  * Google tagged problem 10/13/2019
+
+    __P471 Encode String with Shortest Length__: DP
+
+    __P777 Swap Adjacent in LR String__
+
+    __P1007 Minimum Domino Notations for Equal Row__
+
+    __P951 Flip Equivalent Binary Trees__
+
+    __P524 Longest Word in Dictionary through Deleting__
+
+    __P4 Median of Two Sorted Arrays__
+    
     

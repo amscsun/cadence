@@ -3,6 +3,11 @@
 ### Useful links
 
 * [algorithms](https://www.1point3acres.com/bbs/thread-554991-1-1.html)
+* Linkedin Internship [Experience](https://github.com/amscsun/cadence/blob/master/Google.md) mua!
+
+### Interview Feedback
+
+  * 10/13: rushed a bit into a helper function --> probably first laying out a big picture, do a placeholder for the helper function and then move onto develop the helper function after.
 
 ### Leetcode
 
@@ -27,7 +32,7 @@
     __P975 Odd Even Jump__: dp and sorted to get index information and use stack to get smallest higher or largest lower
 
     __P482 License Key Formatting__
-  
+
   * Google tagged problem 10/02/2019 (Study with Jing Ye)
 
     __P288 Unique Word Abbreviation__
@@ -38,10 +43,10 @@
 
     __P298 Binary Tree Longest Consecutive Sequence__: DFS, find the simplest mission (find max length of sequence with the current root)
 
-    __P843 Guess the Word__: Guess a word and eliminate unmatched words; How to create, update and use 2D array to count the frequency; apply ord() to character; 
+    __P843 Guess the Word__: Guess a word and eliminate unmatched words; How to create, update and use 2D array to count the frequency; apply ord() to character;
 
-  * Google tagged problem 10/03/2019 
-  
+  * Google tagged problem 10/03/2019
+
     __P686 Repeated String Match__: A trick in finding out how many repetition we have and search a word in a string (python built-in KMP, construct a prefix table for the smaller string, use prefix table to search)
 
     __P281 Zigzag Iterator__: queue
@@ -79,7 +84,7 @@
 
     __P394 Decode Strings__: stack
 
-  * Google tagged problem 10/07/2019 
+  * Google tagged problem 10/07/2019
 
     __P149 Max Points on a Line__
 

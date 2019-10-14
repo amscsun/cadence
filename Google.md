@@ -5,6 +5,10 @@
 * [algorithms](https://www.1point3acres.com/bbs/thread-554991-1-1.html)
 * Linkedin Internship [Experience](https://github.com/amscsun/cadence/blob/master/Google.md) mua!
 
+### Interview Feedback
+
+  * 10/13: rushed a bit into a helper function --> probably first laying out a big picture, do a placeholder for the helper function and then move onto develop the helper function after.
+
 ### Leetcode
 
   * Google tagged problem 09/30/2019

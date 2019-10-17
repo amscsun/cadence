@@ -128,8 +128,42 @@
 
     __P951 Flip Equivalent Binary Trees__
 
+  * Google tagged problem 10/14/2019
+
     __P524 Longest Word in Dictionary through Deleting__
 
     __P4 Median of Two Sorted Arrays__
-    
-    
+
+    __P837 New 21 Game__
+
+  * Google tagged problem 10/15/2019
+
+    __P345 Reverse Vowels of String__
+
+    __P939 Minimum Area Rectangle__
+
+    __P289 Game of Life__
+
+    __P259 Three Sum Smaller__
+
+  * Google tagged problem 10/16/2019
+
+    __P317 Shortest Distance from all Buildings__: BFS
+
+    __774 Minimize Max Distance to Gas Station__    
+
+    __P249 Group Shifted Strings__
+
+    __P544 Output Contest Matches__
+
+    __P1213__ Mock Interview
+
+    __P921__ Mock interview
+
+    __P766 Toeplitz Matrix__
+
+    __P299 Bulls and Cows__
+
+    __P205 Isomorphic Strings__
+
+  * Google tagged problem 10/17/2019

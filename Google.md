@@ -172,10 +172,16 @@
 
     __P294 Flip Game II__
 
-    __P247 StroboGrammatic Strings__
+    __P246 StroboGrammatic Numbers I__
+
+    __P247 StroboGrammatic Numbers II__
 
     __P360 Sort Transformed Array__
 
     __P406 Queue Reconstructin by Height__
 
     __P400 Nth Digit__
+
+  * Google tagged problem 10/18/2019
+
+    __P276 Paint Fence__

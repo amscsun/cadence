@@ -167,3 +167,15 @@
     __P205 Isomorphic Strings__
 
   * Google tagged problem 10/17/2019
+    
+    __P274 H Index__
+
+    __P294 Flip Game II__
+
+    __P247 StroboGrammatic Strings__
+
+    __P360 Sort Transformed Array__
+
+    __P406 Queue Reconstructin by Height__
+
+    __P400 Nth Digit__

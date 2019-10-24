@@ -185,3 +185,28 @@
   * Google tagged problem 10/18/2019
 
     __P276 Paint Fence__
+
+    __P329 Longest Increasing Path__: storage, sort
+
+    __P248 StrboGrammtic Numbers III__
+
+  * Google tagged problem 10/19/2019
+    
+    __P737 Sentence Similarity II__: Union Find / DFS
+
+    __P403 Frog Jump__: DFS and DP
+
+    __P562 Longest Line of Consecutive One in Matrix__
+
+  * Google tagged problem 10/20/2019
+    
+    __P1024 Video Stitching__: Similar to word break.
+
+    __P1023 Camelcase Matching__: string
+
+    __P78 Subsets__
+
+    
+
+    DFS, BFS, DP, Tree Recursion
+
